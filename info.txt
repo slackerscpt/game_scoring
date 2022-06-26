@@ -1,0 +1,21 @@
+Scoring Rules for Uno. 
+
+https://www.officialgamerules.org/uno
+
+There are two scoring options.  
+
+Traditional: First player to 500 wins, gets all points from oppents. 
+
+Alternative: Lowest score wins, players over 500 are elminated. 
+
+First run, will be handling Traditional scoring. 
+
+Second run will be handing Alternative scoring. 
+
+Game play:
+
+1) Determine Number of Players and names
+2) Determine scoring path. 
+3) Run Game
+4) Gather points from players, add points to score. 
+5) Announce players scores, and when player wins. 

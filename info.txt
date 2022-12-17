@@ -19,3 +19,6 @@ Game play:
 3) Run Game
 4) Gather points from players, add points to score. 
 5) Announce players scores, and when player wins. 
+
+
+Score for Farkle also

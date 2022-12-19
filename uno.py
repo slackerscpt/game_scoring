@@ -1,6 +1,4 @@
 import random
-from winsound import PlaySound
-
 
 class Player:
     def __init__(self, name, number):
